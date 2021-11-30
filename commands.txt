@@ -1,0 +1,8 @@
+
+1. first export the python path by running the following command
+
+export PYTHONPATH=<path_till_src_folder"
+
+2. To download the dataset run the following command:
+
+    python3 src/com/opensource/cnn/main.py -d 	https://github.com/emanhamed/Houses-dataset/archive/master.zip -o /home/shekhar/projects/MachineLearning/dataset
